@@ -1,0 +1,224 @@
+body {
+  margin: 0px;
+  /*margin-right: 125px;*/
+  margin-left: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Lucida Sans', bold;
+  text-align: center;
+  padding: 4em;
+  box-shadow: 2px 3px 20px black, 0 0 60px #8a4d0f inset;
+  background: #fffef0;
+  filter: url(#wavy2);
+  background-image: url("https://cdn.myportfolio.com/09214b59-a7b9-4ba0-9475-eaa19d1acc51/74cd92d6-9db6-4026-aaae-6da77af80ec0_rw_1920.png?h=bc35ccb217c3eeb25232871efae7f59c");
+  background-repeat:repeat-y;
+  background-size: auto;
+  display: inherit;
+  /*background-color:rgb(173, 151, 63);
+  background-blend-mode: color-burn;*/
+  color: rgb(118, 29, 4);
+  font-size: x-large;
+}
+
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#page {
+  display: grid;
+  width: 100%;
+  margin-left: 100px;
+  grid-template-areas:
+    "head head head"
+    "main main main"
+    "main main main"
+    "main main main"
+    "main main main"
+    "main main main"
+    "main main main"
+    "main main main";
+    grid-template-rows: 1fr auto;
+    grid-template-columns: auto auto auto;
+}
+
+#page > header {
+  grid-area: head;
+  display: center;
+}
+
+#aspects {
+  display: grid;
+  width: 100%;
+  grid-template-areas:
+    "name name name"
+    "name name name";
+    grid-template-rows: 1fr auto;
+    grid-template-columns: auto auto auto;
+}
+
+h1 {
+  display: center;
+  border:10px rgb(8, 173, 173);
+  border-width: large;
+  width: 70vw;
+  height: 3.35vw;
+  border-radius: 10px;
+  margin: 30px;
+  margin-right: 0px;
+  margin-left: 80px;
+  background-color:rgb(59, 208, 178); 
+  border-color: rgb(251, 135, 2);
+  border-style: groove;
+  font-style: oblique;
+  font-size:60px;
+  font-family: 'Papyrus', bold;
+  font-style:oblique;
+  color: solid black;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+.deityCard {
+  width: 60%;
+  height: auto;
+  border: 2px solid black;
+  margin: 5px 0;
+  margin-bottom: 5px;
+  background-color:rgb(239, 217, 138);
+  border-style:groove;
+  border-image: 'cartouche';
+  border-radius: 40px;
+  border:rgb(251, 76, 1) groove;
+  border-width: 10px;
+  overflow: hidden;
+}
+
+.imgPath {
+  display: flex;
+  size-adjust: auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color:rgb(20, 94, 48);
+  width: auto;
+  padding: 3px;
+  border: 15px rgb(252, 115, 4) dotted;
+  border-style: ridge;
+  border-radius: 40px;
+  margin: 5px;
+  color:rgb(1, 12, 62);
+  font-family: 'Papyrus';
+}
+
+.imgPath:hover {
+  background-color:rgb(2, 251, 189);
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-family: 'papyrus' bold;
+  cursor: pointer;
+}
+
+.aspect {
+  shape-outside: border-box;
+  shape-rendering: auto;
+  shape-margin: inherit;
+  justify-content: space-around;
+  width: auto;
+  padding: 1px;
+  border: 2px rgb(4, 92, 86);
+  border-radius: 2px;
+  border-style: ridge;
+  color:rgb(241, 231, 194);
+  font-size:medium;
+  font-family: 'Lucida Sans', medium;
+  padding: 4px 5px;
+  margin: 3px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aspect:hover {
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-family: 'Lucida Sans';
+  cursor:pointer;
+  color:darkred;
+   ;
+}
+
+img {
+  height:auto;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 40px;
+}
+
+.Thing {
+  background: linear-gradient(rgb(243, 243, 139), rgb(12, 12, 70));
+}
+
+.Place {
+  background: linear-gradient(rgb(27, 114, 181), rgb(43, 1, 62));
+}
+
+.Title {
+  background-image: linear-gradient(gray, rgb(13, 8, 18));
+}
+
+.City {
+  background-image: linear-gradient(rgb(10, 105, 10), blue);
+}
+
+.Concept {
+  background-image: linear-gradient(rgb(115, 153, 2), rgb(255, 119, 0));
+}
+
+.Greek {
+  background-image: linear-gradient(rgb(169, 122, 169), rgb(96, 182, 39));
+}
+
+.Animal {
+  background-image: linear-gradient(rgb(100, 7, 7), rgb(13, 13, 171));
+}
+
+.Mythos {
+  background-image: linear-gradient(rgb(226, 69, 95), orange);
+}
+
+.Symbol {
+  background-image: linear-gradient(rgb(81, 12, 12), rgb(160, 244, 4));
+}
+
+.Characteristic {
+  background-image: linear-gradient(rgb(250, 19, 19), pink);
+}
+
+.People {
+  background-image: linear-gradient(purple, rgb(244, 125, 7));
+}
+
+.Occupation {
+  background-image: linear-gradient(rgb(183, 183, 17), rgb(230, 140, 230));
+}
+
+.Color {
+  background-image: linear-gradient(rgb(128, 31, 198), rgb(1, 38, 1));
+}
+
+.Group {
+  background-image: linear-gradient(rgb(145, 50, 2), goldenrod);
+}
+

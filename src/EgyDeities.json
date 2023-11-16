@@ -1,0 +1,993 @@
+[
+  {
+    "name": "Aani",
+    "depictions": "Usually depicted as an ape, often sitting near an abundance of food and goods showing prosperity.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Ape"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      }
+    ],
+    "img": "https://cdn.myportfolio.com/09214b59-a7b9-4ba0-9475-eaa19d1acc51/7bd3fa2d-f9f5-462a-b45b-60a3c3de3785_rw_1200.png?h=b39ecbaac8fe4e560f12d7f094bade90",
+    "URL": "https://mythus.fandom.com/wiki/Aani"
+  },
+  {
+    "name": "Ammit",
+    "depictions": "Depicted as a demon with the head of a crocodile, torso of a wild cat, hindquarters of a hippo.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Thing",
+        "name": "Souls"
+      },
+      {
+        "type": "Place",
+        "name": "Hall of Maat"
+      },
+      {
+        "type": "Thing",
+        "name": "Book of the Dead"
+      },
+      {
+        "type": "Title",
+        "name": "Devourer of Souls"
+      }
+    ],
+    "img": "https://i.redd.it/r5c8l9764r581.jpg",
+    "URL": "https://ancientegyptonline.co.uk/ammit/"
+  },
+  {
+    "name": "Amun",
+    "depictions": "Depicted as the sun disc or as a man with a sun crown.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "City",
+        "name": "Thebes"
+      },
+      {
+        "type": "Concept",
+        "name": "Creation"
+      },
+      {
+        "type": "Title",
+        "name": "King with two-feather crown"
+      },
+      {
+        "type": "Greek",
+        "name": "Zeus-Ammon"
+      }
+    ],
+    "img": "http://www.touregypt.net/images/touregypt/amun-re2.jpg",
+    "URL": "https://www.worldhistory.org/amun/"
+  },
+  {
+    "name": "Anubis",
+    "depictions": "Depicted as a man with a black jackal's head or as a jackal lying on a sarcophagus.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Jackal"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "Place",
+        "name": "Necropolis"
+      },
+      {
+        "type": "Mythos",
+        "name": "Afterlife"
+      },
+      {
+        "type": "Title",
+        "name": "Messenger between the Realms"
+      },
+      {
+        "type": "Concept",
+        "name": "Dreams"
+      }
+    ],
+    "img": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/anubis-the-tomb-of-seti-i-egyptian-history.jpg",
+    "URL": "https://mythopedia.com/topics/anubis"
+  },
+  {
+    "name": "Apep",
+    "depictions": "Depicted as a long, evil serpent, either on land by a tree or in the water, long and loopy.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Serpent"
+      },
+      {
+        "type": "Greek",
+        "name": "Apophis"
+      },
+      {
+        "type": "Concept",
+        "name": "Evil"
+      }
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/0355/8493/4026/files/Ra.jpg?v=1585753729",
+    "URL": "https://www.worldhistoryedu.com/everything-that-you-need-to-know-about-apep-the-ancient-egyptian-deity-of-chaos/"
+  },
+  {
+    "name": "Apis",
+    "depictions": "Depicted as a bull with large, curled horns, or as a man with a bull's horned head or man's head with large, curled horns.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Bull"
+      },
+      {
+        "type": "City",
+        "name": "Memphis"
+      }
+    ],
+    "img": "https://historicaleve.com/wp-content/uploads/2020/05/egyptian-apis-4.jpg.webp",
+    "URL": "https://www.britannica.com/topic/Apis-Egyptian-deity"
+  },
+  {
+    "name": "Astarte",
+    "depictions": "Goddess depicted with hawk feet and wings often standing on a man.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "War"
+      },
+      {
+        "type": "Concept",
+        "name": "Love"
+      },
+      {
+        "type": "Place",
+        "name": "Levant"
+      },
+      {
+        "type": "Greek",
+        "name": "Aphrodite"
+      }
+    ],
+    "img": "https://i.pinimg.com/originals/c4/be/ae/c4beaeaa0ce970d5557b096051e63cd2.jpg",
+    "URL": "https://mythology.net/egyptian/egyptian-gods/astarte/"
+  },
+  {
+    "name": "Aten",
+    "depictions": "Depicted as a sun's disc or partial disc with long rays ending in hands, usually with the Pharaoh Akhenaten, his wife Nefertiti, and family.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      },
+      {
+        "type": "People",
+        "name": "Akhenaten"
+      }
+    ],
+    "img": "http://www.touregypt.net/images/touregypt/amarnaperiod10.jpg",
+    "URL": "https://egyptian-history.com/blogs/egyptian-gods/god-aton"
+  },
+  {
+    "name": "Babi",
+    "depictions": "Depicted as a seated blue or green baboon, sometimes in an aggressive stance.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Aggression"
+      },
+      {
+        "type": "Animal",
+        "name": "Baboon"
+      },
+      {
+        "type": "Concept",
+        "name": "Sexuality"
+      },
+      {
+        "type": "City",
+        "name": "Babylon"
+      }
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Babi_%28Egyptian_god%29.png",
+    "URL": "https://anthropologyreview.org/history/ancient-egypt/egyptian-god-babi/"
+  },
+  {
+    "name": "Bastet",
+    "depictions": "Depicted as a seated, Abyssinian cat, or as a woman with the head of a cat or lioness, or as a woman with the crown of Bastet.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "City",
+        "name": "Bubastis"
+      },
+      {
+        "type": "Animal",
+        "name": "Cat"
+      },
+      {
+        "type": "Animal",
+        "name": "Lioness"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "Concept",
+        "name": "Love"
+      }
+    ],
+    "img": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_564/MTc2Mjk4MTU0MzQwMTMyMDMw/exploring-the-egyptian-goddess-bast.webp",
+    "URL": "https://www.worldhistoryedu.com/bastet-goddess-birth-story-powers-symbols-meanings/"
+  },
+  {
+    "name": "Bennu",
+    "depictions": "Depicted as a heron-like Bennu bird, often with the sun or the Nile or with Ennead gods.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Bird"
+      },
+      {
+        "type": "Concept",
+        "name": "Creation"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      }
+    ],
+    "img": "http://www.touregypt.net/images/touregypt/benu4.jpg",
+    "URL": "https://symbolsage.com/bennu-bird-egyptian-mythology/"
+  },
+  {
+    "name": "Bes",
+    "depictions": "Depicted as a little person with feather crown, making a face with tongue out, often only wearing a belt and exposing his phallus, carrying metal tools.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Childbirth"
+      },
+      {
+        "type": "Thing",
+        "name": "Children"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "People",
+        "name": "Women"
+      },
+      {
+        "type": "Occupation",
+        "name": "Metalcrafting"
+      }
+    ],
+    "img": "https://www.worldhistoryedu.com/wp-content/uploads/2021/09/Bes-myths-and-facts.png",
+    "URL": "https://www.worldhistoryedu.com/bes-egyptian-god-origin-story-powers-symbols-meaning/"
+  },
+  {
+    "name": "Geb",
+    "depictions": "Usually depicted as a man lying on the ground naked beneath Nut, his wife and the sky, being separated from her to allow for existence.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Fertility"
+      },
+      {
+        "type": "Mythos",
+        "name": "Nut"
+      },
+      {
+        "type": "Symbol",
+        "name": "Earth"
+      }
+    ],
+    "img": "http://www.touregypt.net/images/touregypt/geb1.jpg",
+    "URL": "https://mythopedia.com/topics/geb"
+  },
+  {
+    "name": "Hapi",
+    "depictions": "Depicted as a man with female breasts harvesting fish, game birds and crops near the Nile, blue in color.",
+    "genders": "all",
+    "Aspects": [
+      {
+        "type": "Place",
+        "name": "Nile"
+      },
+      {
+        "type": "Mythos",
+        "name": "Flood"
+      },
+      {
+        "type": "Concept",
+        "name": "Fertility"
+      },
+      {
+        "type": "Concept",
+        "name": "Agriculture"
+      },
+      {
+        "type": "Symbol",
+        "name": "Fish"
+      },
+      {
+        "type": "Symbol",
+        "name": "Birds"
+      },
+      {
+        "type": "Symbol",
+        "name": "Barley"
+      },
+      {
+        "type": "Symbol",
+        "name": "Wheat"
+      },
+      {
+        "type": "Color",
+        "name": "Blue"
+      }
+    ],
+    "img": "https://www.timelessmyths.com/wp-content/uploads/2021/08/God-Hapi.png",
+    "URL": "https://ancientegyptonline.co.uk/hapi/"
+  },
+  {
+    "name": "Hathor",
+    "depictions": "Depicted as a woman goddess with cow's horns and ears and a crown with horns and a sun disc or as a woman with cow ears.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Mythos",
+        "name": "Afterlife"
+      },
+      {
+        "type": "Thing",
+        "name": "Dance"
+      },
+      {
+        "type": "Thing",
+        "name": "Commerce"
+      },
+      {
+        "type": "Place",
+        "name": "Foreign Lands"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Motherhood"
+      },
+      {
+        "type": "Thing",
+        "name": "Music"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sistrum"
+      },
+      {
+        "type": "Concept",
+        "name": "Sexuality"
+      },
+      {
+        "type": "Symbol",
+        "name": "Cow"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      }
+    ],
+    "img": "https://g2x6m7g6.rocketcdn.me/wp-content/uploads/F-Horus_and_Hathor_and_the_pharaoh.jpg",
+    "URL": "https://mythopedia.com/topics/hathor"
+  },
+  {
+    "name": "Horus",
+    "depictions": "Depictions vary by time period and place, usually shown as a man with a hawk's head and combined crown of Upper and Lower Egypt with sun disc or as a hawk.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Healing"
+      },
+      {
+        "type": "Mythos",
+        "name": "Kingship"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sky"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      },
+      {
+        "type": "Animal",
+        "name": "Hawk"
+      }
+    ],
+    "img": "https://egyptunitedtours.com/wp-content/uploads/2021/09/Ancient-Egyptian-God-Horus.jpg",
+    "URL": "https://mythopedia.com/topics/horus"
+  },
+  {
+    "name": "Imhotep",
+    "depictions": "Imhotep was a man before being proclaimed as a man-god, so his depiction is as a kneeling man in ordinary clothing and shaved head, often with a stylus and tablet.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Occupation",
+        "name": "Architect"
+      },
+      {
+        "type": "Occupation",
+        "name": "Healer"
+      },
+      {
+        "type": "Symbol",
+        "name": "Pyramid"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Wisdom"
+      },
+      {
+        "type": "Symbol",
+        "name": "Stylus"
+      }
+    ],
+    "img": "https://s3.amazonaws.com/libapps/accounts/42231/images/Imhotep-Louvre.jpg",
+    "URL": "https://www.thoughtco.com/imhotep-4772346"
+  },
+  {
+    "name": "Isis",
+    "depictions": "Depicted differently by place and time period, but either as a woman goddess with a feather or throne crown or as a winged woman with very large wings outstretched.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Group",
+        "name": "Ennead"
+      },
+      {
+        "type": "Thing",
+        "name": "Funerals"
+      },
+      {
+        "type": "Mythos",
+        "name": "Magic"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Motherhood"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "Concept",
+        "name": "Truth"
+      },
+      {
+        "type": "Symbol",
+        "name": "Feather"
+      },
+      {
+        "type": "Mythos",
+        "name": "Maat"
+      }
+    ],
+    "img": "https://cdn.thecollector.com/wp-content/uploads/2021/03/winged-isis-ramses-iii-gold-sarcophagus-tutankhamun-1.jpg?width=1400&quality=55",
+    "URL": "https://mythopedia.com/topics/isis"
+  },
+  {
+    "name": "Khepri",
+    "depictions": "Usually depicted as a scarab beetle in blue or black, or as a male god with wiggly horns or antennae.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Scarab"
+      },
+      {
+        "type": "Mythos",
+        "name": "Creation"
+      },
+      {
+        "type": "Place",
+        "name": "Desert"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sunrise"
+      },
+      {
+        "type": "Occupation",
+        "name": "Messenger"
+      }
+    ],
+    "img": "https://ancientegyptianhistory.files.wordpress.com/2019/05/323268ef-0369-4141-99b0-9d3fdec91a32.png",
+    "URL": "https://ancientegyptonline.co.uk/khepri/"
+  },
+  {
+    "name": "Khnum (Khnemu)",
+    "depictions": "Depicted as a ram or as a male god with ram's horns with or without a crown.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Ram"
+      },
+      {
+        "type": "Mythos",
+        "name": "Flood"
+      },
+      {
+        "type": "Place",
+        "name": "Nile"
+      },
+      {
+        "type": "Concept",
+        "name": "Life"
+      }
+    ],
+    "img": "https://mythlok.com/wp-content/uploads/2023/06/Mythlok-Khnum-wall-art-795x1024.png",
+    "URL": "https://www.worldhistoryedu.com/egyptian-god-khnum-myths-origin-story-powers-importance/"
+  },
+  {
+    "name": "Khonsu",
+    "depictions": "Depicted nearly identically to Ra as a man with a falcon's head and a disc crown, except the disc is white for the moon instead of the sun's red.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Symbol",
+        "name": "Moon"
+      },
+      {
+        "type": "Animal",
+        "name": "Falcon"
+      },
+      {
+        "type": "Mythos",
+        "name": "Duality"
+      }
+    ],
+    "img": "https://cdn.britannica.com/78/160178-050-CE3E64B5/Egyptian-hieroglyphic-Egypt-Khons.jpg?w=300",
+    "URL": "https://ancientegyptonline.co.uk/khonsu/"
+  },
+  {
+    "name": "Maat",
+    "depictions": "Depicted similar to Isis as a woman with large outstretched wings or as a woman goddess with the maat feather on her head.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Justice"
+      },
+      {
+        "type": "Concept",
+        "name": "Order"
+      },
+      {
+        "type": "Concept",
+        "name": "Truth"
+      },
+      {
+        "type": "Symbol",
+        "name": "Feather"
+      },
+      {
+        "type": "Occupation",
+        "name": "Souljudge"
+      }
+    ],
+    "img": "https://fitz-cms-images.s3.eu-west-2.amazonaws.com/005.jpg",
+    "URL": "https://mythology.net/egyptian/egyptian-gods/maat/"
+  },
+  {
+    "name": "Nemty",
+    "depictions": "Depicted as falcon-headed male god piloting a barque on the Nile or on a river to the afterlife, ferrying a Pharaoh's Ba.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Falcon"
+      },
+      {
+        "type": "Occupation",
+        "name": "Ferryman"
+      },
+      {
+        "type": "Mythos",
+        "name": "Afterlife"
+      },
+      {
+        "type": "Symbol",
+        "name": "Barque"
+      }
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nun_Raises_the_Sun.jpg/420px-Nun_Raises_the_Sun.jpg",
+    "URL": "https://mythus.fandom.com/wiki/Nemty"
+  },
+  {
+    "name": "Nephthys (Neb-t kha-t)",
+    "depictions": "As the twin sisten to Isis, she is depicted as identical to the non-winger form, except her hat has her name cartouche instead of a throne or feather.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Group",
+        "name": "Ennead"
+      },
+      {
+        "type": "Concept",
+        "name": "Funerals"
+      },
+      {
+        "type": "Concept",
+        "name": "Death"
+      },
+      {
+        "type": "Mythos",
+        "name": "Consort"
+      }
+    ],
+    "img": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size2/11.681_overall_PS9.jpg",
+    "URL": "https://mythopedia.com/topics/nephthys"
+  },
+  {
+    "name": "Nut",
+    "depictions": "Goddess Stretched Over The World As The Night Sky Covered In Stars",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Group",
+        "name": "Ennead"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sky"
+      },
+      {
+        "type": "Symbol",
+        "name": "Stars"
+      },
+      {
+        "type": "People",
+        "name": "Geb"
+      }
+    ],
+    "img": "https://admin.ask-aladdin.com/photos/egypt/articles/nut2-askaladdin.webp",
+    "URL": "https://www.ancient-origins.net/myths-legends/mythology-nut-mother-gods-007084"
+  },
+  {
+    "name": "Osiris",
+    "depictions": "Blue skinned seated king with double crown holding staff and ankh, husband to Isis and resurrected king of the gods after Set murdered him",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Group",
+        "name": "Ennead"
+      },
+      {
+        "type": "Concept",
+        "name": "Death"
+      },
+      {
+        "type": "Concept",
+        "name": "Resurrection"
+      },
+      {
+        "type": "Place",
+        "name": "Underworld"
+      },
+      {
+        "type": "Mythos",
+        "name": "Set"
+      },
+      {
+        "type": "Mythos",
+        "name": "Set"
+      },
+      {
+        "type": "Mythos",
+        "name": "Isis"
+      },
+      {
+        "type": "Occupation",
+        "name": "GodKing"
+      }
+    ],
+    "img": "https://www.egypttoday.com/siteimages/Uploads/2020/6/28/77520-Papyrus-depicting-Isis-and-Osiris.jpg",
+    "URL": "https://mythopedia.com/topics/osiris"
+  },
+  {
+    "name": "Ptah",
+    "depictions": "Depicted as a mummified man with handsome, living head and crown.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "City",
+        "name": "Memphis"
+      },
+      {
+        "type": "Occupation",
+        "name": "Craftsman"
+      },
+      {
+        "type": "Concept",
+        "name": "Creation"
+      },
+      {
+        "type": "Mythos",
+        "name": "Universe"
+      }
+    ],
+    "img": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/587598/1179768/main-image",
+    "URL": "https://mythopedia.com/topics/ptah"
+  },
+  {
+    "name": "Ra",
+    "description": "Usually shown as a man with the head of a falcon and red sun crown as the duality to Khonsu.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Falcon"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      }
+    ],
+    "img": "https://www.worldhistory.org/img/r/p/1000x1200/4260.jpg.webp?v=1696962124",
+    "URL": "https://mythopedia.com/topics/ra"
+  },
+  {
+    "name": "Re",
+    "depictions": "Depicted as a man or woman with hawk head in the barque of the sun or with other gods like Osiris and Anubis.",
+    "genders": "all",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Creation"
+      },
+      {
+        "type": "Concept",
+        "name": "Afterlife"
+      },
+      {
+        "type": "City",
+        "name": "Heliopolis"
+      },
+      {
+        "type": "Symbol",
+        "name": "Sun"
+      },
+      {
+        "type": "Occupation",
+        "name": "Ruler"
+      },
+      {
+        "type": "Thing",
+        "name": "Barque"
+      }
+    ],
+    "img": "https://www.osirisnet.net/dieux/re/photo/re_barque.jpg",
+    "URL": "http://www.egyptianmyths.net/mythre.htm"
+  },
+  {
+    "name": "Sekhmet",
+    "depictions": "Depicted as a woman goddess with the head of a lioness, often with a fierce expression, or rarely as a full lioness.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Concept",
+        "name": "Destruction"
+      },
+      {
+        "type": "Animal",
+        "name": "Lioness"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Violence"
+      },
+      {
+        "type": "Occupation",
+        "name": "Warding Disease"
+      },
+      {
+        "type": "Thing",
+        "name": "Flood"
+      }
+    ],
+    "img": "https://mythologyplanet.com/wp-content/uploads/2020/11/Stone-carving-of-Sekhmet.png",
+    "URL": "https://mythology.net/egyptian/egyptian-gods/sekhmet/"
+  },
+  {
+    "name": "Set",
+    "depictions": "Depicted as a man with head of unknown doglike animal with horns and either red or black skin.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Characteristic",
+        "name": "Trickster"
+      },
+      {
+        "type": "Group",
+        "name": "Ennead"
+      },
+      {
+        "type": "Concept",
+        "name": "Chaos"
+      },
+      {
+        "type": "Place",
+        "name": "Desert"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Strength"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Violence"
+      },
+      {
+        "type": "Concept",
+        "name": "Deception"
+      },
+      {
+        "type": "Mythos",
+        "name": "Fratricide"
+      },
+      {
+        "type": "Symbol",
+        "name": "Occult"
+      }
+    ],
+    "img": "https://web.sas.upenn.edu/discentes/files/2023/04/Picture1-468x550.jpg",
+    "URL": "https://mythopedia.com/topics/set"
+  },
+  {
+    "name": "Sobek",
+    "depictions": "Depicted as a crocodile-headed man or as a crocodile, both with green skin and horns.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Crocodile"
+      },
+      {
+        "type": "Place",
+        "name": "Nile"
+      },
+      {
+        "type": "Concept",
+        "name": "Fertility"
+      },
+      {
+        "type": "Thing",
+        "name": "Inundation"
+      },
+      {
+        "type": "Thing",
+        "name": "Flood"
+      }
+    ],
+    "img": "https://journalnews.com.ph/wp-content/uploads/2022/10/Egyptians.jpg",
+    "URL": "https://www.worldhistoryedu.com/sobek-egyptian-god/"
+  },
+  {
+    "name": "Thoth",
+    "depictions": "Depicted as a male god with the head of a blue or green ibis, usually carrying the tools of a scribe used to take records in the Hall of Maat.",
+    "genders": "male",
+    "Aspects": [
+      {
+        "type": "City",
+        "name": "Hermopolis"
+      },
+      {
+        "type": "Symbol",
+        "name": "Moon"
+      },
+      {
+        "type": "Occupation",
+        "name": "Scribe"
+      },
+      {
+        "type": "Mythos",
+        "name": "Knowledge"
+      },
+      {
+        "type": "Thing",
+        "name": "Writing"
+      },
+      {
+        "type": "Animal",
+        "name": "Ibis"
+      },
+      {
+        "type": "Occupation",
+        "name": "RecordKeeper"
+      }
+    ],
+    "img": "https://www.havefunwithhistory.com/wp-content/uploads/2023/03/The-myth-of-Thoth-and-the-invention-of-writing.jpg",
+    "URL": "https://www.havefunwithhistory.com/facts-about-thoth/"
+  },
+  {
+    "name": "Tuauret",
+    "depictions": "Usually depicted as a blue, pregnant hippopotamus with enlarged breasts and belly.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Hippopotamus"
+      },
+      {
+        "type": "Characteristic",
+        "name": "Pregnancy"
+      },
+      {
+        "type": "Concept",
+        "name": "Fertility"
+      },
+      {
+        "type": "Concept",
+        "name": "Life"
+      }
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Statuette_of_the_Goddess_Taweret_MET_DP243443.jpg/1280px-Statuette_of_the_Goddess_Taweret_MET_DP243443.jpg",
+    "URL": "https://en.wikipedia.org/wiki/Taweret"
+  },
+  {
+    "name": "Wadjet",
+    "depictions": "Depicted as a female goddesss often associated with Horus, often with a cobra or shown as a cobra with the udjat, or Eye of Horus symbol.",
+    "genders": "female",
+    "Aspects": [
+      {
+        "type": "Animal",
+        "name": "Cobra"
+      },
+      {
+        "type": "Symbol",
+        "name": "Udjat"
+      },
+      {
+        "type": "Symbol",
+        "name": "Eye of Horus"
+      },
+      {
+        "type": "Concept",
+        "name": "Protection"
+      }
+    ],
+    "img": "https://sagesanctuary.files.wordpress.com/2022/01/horus-eyewadjet.jpg?w=650&h=1&crop=1",
+    "URL": "https://iseumsanctuary.com/2022/01/17/wadjet-supreme-goddess-of-lower-egypt/"
+  }
+]
